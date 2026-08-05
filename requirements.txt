@@ -12,4 +12,4 @@ langchain-openai
 ./vendor/googlemaps-4.10.0-py3-none-any.whl
 langchain-google-community[places]
 langchain-tavily
-starlette==0.45.0
+streamlit
