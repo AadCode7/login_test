@@ -9,5 +9,6 @@ langchain
 langchain-core
 langchain-groq
 langchain-openai
+./vendor/googlemaps-4.10.0-py3-none-any.whl
 langchain-google-community[places]
 langchain-tavily
